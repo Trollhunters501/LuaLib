@@ -7,3 +7,5 @@ Bring the LuaJ engine to Nukkit!
 To use the LuaJ engine in Java, in your plugin's plugin.yml add that you need this Plugin!
 
 More Info: [Github LuaJ](https://github.com/luaj/luaj)
+
+You may also like: [LuaEngineNK]()
